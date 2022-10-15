@@ -19,3 +19,15 @@ This is a notebook to introduce the basics of plotting with Matplotlib and Seabo
 Link to the notebook: [Basic Plotting](plotting.ipynb)
 
 See the [Video](https://www.youtube.com/watch?v=wGkknq4zU-0) on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
+
+## Explore Statistics with Python - Collection
+
+![Image](static/explore_statistics.png)
+
+This is a collection of notebooks to introduce the basics of statistics with Python. Into this collection, we will see how to use statistics to explore data and how to use hypothesis testing to make decisions.
+
+Also we will discover some other kinds of distributions so we can recognize them when we see them and to know how to work with them.
+
+Link to the notebooks: [Explore Statistics with Python](Explore_Statistics)
+
+See the [Video]() on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
