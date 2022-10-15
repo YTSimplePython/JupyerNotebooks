@@ -30,4 +30,4 @@ Also we will discover some other kinds of distributions so we can recognize them
 
 Link to the notebooks: [Explore Statistics with Python](Explore_Statistics)
 
-See the [Video]() on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
+See the [Video](https://youtu.be/e192i68H0NA) on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
