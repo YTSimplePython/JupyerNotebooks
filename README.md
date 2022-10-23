@@ -41,4 +41,4 @@ This is a notebook to introduce how to make your boring plots to look better and
 
 Link to the notebooks: [Advanced Plotting](advanced_visuals.ipynb)
 
-See the [Video]() on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
+See the [Video](https://youtu.be/hb_-_ff7f6w) on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
