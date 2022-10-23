@@ -31,3 +31,14 @@ Also we will discover some other kinds of distributions so we can recognize them
 Link to the notebooks: [Explore Statistics with Python](Explore_Statistics)
 
 See the [Video](https://youtu.be/e192i68H0NA) on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
+
+
+## Advanced Plotting
+
+![Image](static/advanced_plotting.png)
+
+This is a notebook to introduce how to make your boring plots to look better and to pop out. We will learn how to add titles, labels and annotations to our plots. We will also learn how to make our plots look better by changing the style and the color palette.
+
+Link to the notebooks: [Advanced Plotting](advanced_visuals.ipynb)
+
+See the [Video]() on my YouTube [channel](https://www.youtube.com/channel/UCFOOKhJITTAUBhE6FLqhQOw).
